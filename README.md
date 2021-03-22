@@ -1,6 +1,6 @@
 # A simple chat app
 
-Stack React, Socket.io, Express.
+Stack - React, Socket.io, Express.
 
 ## Client side
 
