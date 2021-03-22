@@ -1,4 +1,6 @@
-# A chat app for ForaSoft “Evaluation Test JavaScript”
+# A simple chat app
+
+Stack React, Socket.io, Express.
 
 ## Client side
 
